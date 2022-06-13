@@ -1,7 +1,7 @@
 ## Olá, eu sou o Juan Yuri!
 
 - 🔭 Hoje trabalho como desenvolvedor Full Stack PHP e JS.
-- 🌱 Estou estudando Clean Code, SOLID, Factory Pattern e Laravel.
+- 🌱 Estou estudando Clean Code, SOLID, Factory Pattern e Spring-Boot.
 - 📫 Contate-me no email: hjuanyuri@gmail.com
 - 😄 Pronouns: ele/dele
 
