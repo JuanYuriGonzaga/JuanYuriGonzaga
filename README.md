@@ -1,13 +1,23 @@
-# Olá, eu sou o Juan :D
+# Desenvolvedor PHP | Especialista em Desenvolvimento Web
 
-Sou um desenvolvedor PHP experiente e apaixonado pelo desenvolvimento web, com mais de 4 anos de experiência na criação de aplicações robustas e escaláveis. Estou comprometido em seguir as melhores práticas de desenvolvimento e padrões de arquitetura para entregar soluções de alta qualidade.
+👋 Olá! Sou um desenvolvedor PHP apaixonado pelo desafio de criar aplicações web robustas e escaláveis. Com mais de 4 anos de experiência, trago um sólido conhecimento em desenvolvimento, seguindo as melhores práticas e padrões de arquitetura. Minha expertise abrange o desenvolvimento de sistemas e APIs, integração de bancos de dados, otimização de desempenho e a resolução de desafios complexos.
 
-## Experiência Profissional
+## 🚀 Principais Competências
 
-### Desenvolvedor PHP | Superlógica Imobiliárias | 08 de Agosto de 2022 - Atualmente
+- **Linguagens e Tecnologias:** PHP, JavaScript, Java
+- **Bancos de Dados:** MySQL, SQL, MongoDB
+- **Frameworks PHP:** Zend, Codeigniter, Laravel
+- **Metodologias Ágeis:** Scrum, XP, Kanban, Lean, Squad
+- **Ferramentas de Controle de Versão:** Git (GitHub / GitLab)
+- **Conhecimentos Adicionais:** MVC, AWS, SaaS, Docker
+- **Ciclo de Desenvolvimento:** Concepção, Implementação, Operação e Manutenção
+
+## 💻 Experiência Profissional
+
+### Desenvolvedor PHP | Superlógica Imobiliárias | 08 de Agosto de 2023 - Atualmente
 
 - Desenvolvimento e manutenção de aplicações web em PHP.
-- Colaboração com a equipe para aprimorar a arquitetura e qualidade do código.
+- Colaboração ativa para aprimorar arquitetura e qualidade do código.
 - Otimização de desempenho e escalabilidade de sistemas existentes.
 - Integração de APIs de terceiros e desenvolvimento de APIs internas para melhorar interoperabilidade.
 - Participação ativa em revisões de código e resolução de problemas complexos.
@@ -15,19 +25,18 @@ Sou um desenvolvedor PHP experiente e apaixonado pelo desenvolvimento web, com m
 #### Conquistas Destacadas:
 
 - Desenvolvimento de um sistema de gerenciamento de conteúdo robusto e intuitivo para uma empresa de e-commerce, resultando em aumento significativo na eficiência operacional.
-- Implementação de uma API de pagamento para facilitar transações financeiras seguras e confiáveis em uma plataforma de comércio eletrônico.
+- Implementação bem-sucedida de uma API de pagamento para facilitar transações financeiras seguras e confiáveis em uma plataforma de comércio eletrônico.
 
-## Habilidades
+## 🌐 Conheça mais sobre mim
 
-- **Linguagens:** PHP, JavaScript, Java
-- **Bancos de Dados:** MySQL, SQL, MongoDB
-- **Frameworks PHP:** Zend, Codeigniter, Laravel
-- **Metodologias Ágeis:** Scrum, XP, Kanban, Lean, Squad
-- **Controle de Versão:** Git (GitHub / GitLab)
-- **Conhecimentos Adicionais:** MVC, AWS, SaaS, Docker
+- [Portfólio Online](https://juanyurigonzaga.github.io/bioProject/)
 
-## Buscando Desafios
+## 🚀 Em Busca de Novos Desafios
 
-Estou sempre em busca de desafios estimulantes e oportunidades para aprender e crescer profissionalmente. Se você procura um desenvolvedor PHP comprometido, criativo e focado em resultados, entre em contato comigo para discutirmos possíveis colaborações.
+Estou sempre em busca de desafios estimulantes e oportunidades para aprender e crescer profissionalmente. Se você está procurando um desenvolvedor PHP comprometido, criativo e focado em resultados, entre em contato comigo para discutirmos possíveis colaborações.
 
-[LinkedIn](https://www.linkedin.com/in/juan-yuri-gonzaga-456b04177/) | [Meu Site Biográfico](https://juanyurigonzaga.github.io/bioProject/)
+Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/juan-yuri-gonzaga-456b04177/)
+- [GitHub](https://github.com/juanyurigonzaga)
+
+#PHP #DesenvolvimentoWeb #APIs #Git #Laravel #AWS #Docker #AgileDeveloper #Inovação #CódigoLimpo
